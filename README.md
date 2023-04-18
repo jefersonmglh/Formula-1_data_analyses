@@ -14,6 +14,7 @@ ALL DATA:
   
 ref
 https://github.com/PiotrMajor/F1-Data-Visualization/blob/master/Formula%201%20Data%20Exploration.ipynb
+https://github.com/gandalf1819/Formula1
   
 What drivers and constructors were the most successfull throughout the history of the sport? (per country)
 How grid position affect the finish position?
