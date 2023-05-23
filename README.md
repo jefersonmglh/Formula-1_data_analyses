@@ -7,5 +7,6 @@ Formula One, also known as Formula 1 or F1, is the top-tier category of open-whe
 
 ### Content
 
-(full analysis in .ipynb file)
+<a href=https://github.com/jefersonmglh/Formula-1_historial_analysis/blob/main/all_data_analysis.ipynb>Full Analysis Here</a>
+<br>
 The dataset included in this analysis spans from 1950 to the 2018 season and comprises various tables that provide information on constructors, race drivers, lap times, pit stops, and other relevant details. With them, we have been able to ascertain the most accomplished drivers and constructor teams throughout the history of Formula 1. As the category itself has undergone transformations in terms of car velocities and its Grand Prix events. Additionally, the study and enhancement of techniques for manipulating dataframes and plotting graphs have proved to be fruitful endeavors of significant importance.
